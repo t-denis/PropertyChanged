@@ -1,5 +1,5 @@
 This branch adds an ability to explicitly specify tracked properties.
-A code based on naming conventions only may become too fragile.
+Because a code based on naming conventions only may become too fragile.
 
 ```cs
 public class Person : INotifyPropertyChanged
